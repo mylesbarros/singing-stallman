@@ -1,8 +1,8 @@
 # Singing Stallman
 
-A Firefox add-on to give you uninterupted access to the Free Software Song at all hours of the day and in every circumstance.
+A Firefox add-on to give you uninterupted access to Richard Stallman's Free Software Song at all hours of the day and in every circumstance.
 
-While participating in a "bardic circle" at a Science Fiction convention that he was attending in 1991, Richard Stallman would pen one of the most important documents in Computer Science history: the Free Software Song. Set to the beat of a Bulgarian folk song, the FSS has the power to cleanse you of the influence of those filthy, closed-source licenses and inspire all those within ear shot to devote themselves thoroughly and totally to the open source software initiative.
+While participating in a "bardic circle" at a Science Fiction convention that he was attending in 1991, Stallman would pen one of the most important documents in Computer Science history: the Free Software Song. Set to the beat of a Bulgarian folk song, the FSS has the power to cleanse you of the influence of those filthy, closed-source licenses and inspire all those within ear shot to devote themselves thoroughly and totally to the open source software initiative.
 
 Through the use of the Singing Stallman extension you can invoke that power through the mere click of a button. The only question is, can you handle it?
 
