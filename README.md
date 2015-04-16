@@ -38,6 +38,6 @@ I claim no copyright to the Free Software Song or to any of the performances of 
 
 The icons for the add-on are based on the public domain "Che Stallman" image distributed through Open Clipart:
 
-   https://openclipart.org/detail/143659 
+    https://openclipart.org/detail/143659 
     
 The icons are likewise released into the public domain.
