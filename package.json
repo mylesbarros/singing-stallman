@@ -1,9 +1,52 @@
 {
-  "name": "singing_stallman",
-  "title": "singing_stallman",
-  "id": "jid1-iykONQM5SAA4Xg",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "name": "singingstallman",
+  "title": "Singing Stallman",
+  "id": "jid1-MhPf1cjRSsTtcA",
+  "author": "Myles V. Barros",
+  "description": "Exorcise your soul of closed-source demons and cleanse yourself of proprietary urges through the power of the Free Software Song.",
+  "icon": "ss_icon48.png",
+  "icon64": "ss_icon64.png",
+  "license": "GPL 3.0",
+  "version": "1.0",
+  "preferences": [
+     {
+     "name": "trackPrefs",
+     "title": "Open Track to be Sung",
+     "type": "menulist",
+     "value": "stallman",
+     "options": [
+       {
+            "value": "metalbacon",
+            "label": "Metal version by Jono Bacon"
+       },
+       {
+           "value": "fenster",
+           "label": "Rhythmic version by Fenster"
+       },
+       {
+           "value": "rhythmic",
+           "label": "Rhythmic version by Thor"
+       },
+       {
+           "value": "loneload",
+           "label": "Rock/Metal version by Loneload"
+       },
+       {
+           "value": "stallman",
+           "label": "Original version by Richard Stallman"
+       },
+       {
+           "value": "spanish",
+           "label": "Spanish Pop/Punk version by ALEC"
+       },
+       {
+           "value": "ecantorix",
+           "label": "Synthetic cover from ecantorix"
+       },
+       {
+           "value": "bulgarian",
+           "label": "Traditional Bulgarian performance"
+       }
+     ]
+  }]
 }

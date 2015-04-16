@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+     <Description about="urn:mozilla:install-manifest">
+       <em:id>singing_stallman@zeppin.addons.mozilla.org</em:id>
+       <em:version>1.0</em:version>
+       <em:type>2</em:type>
+       <em:targetApplication>
+         <Description>
+           <em:minVersion>29.0</em:minVersion>
+           <em:maxVersion>36.0.*</em:maxVersion>
+         </Description>
+       </em:targetApplication>
+       <em:name>Singing Stallman</em:name>
+       <em:description>Exorcise your soul of closed-source demons and cleanse yourself of propreitary urges.</em:description>
+       <em:creator>Myles V. Barros</em:creator>
+     </Description>
+</RDF>
