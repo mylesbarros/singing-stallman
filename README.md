@@ -13,7 +13,7 @@ In addition to a performance by Stallman's own mouth, Singing Stallman feature a
 Information about the FSS, including lyrics and a must-read history, are
 available from the Free Software Foundation:
    
-   https://www.gnu.org/music/free-software-song.html
+    https://www.gnu.org/music/free-software-song.html
 
 A video of Stallman performing the FSS is available on YouTube:
 
